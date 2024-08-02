@@ -1,1 +1,1 @@
-SPRING Assignments
+SPRING Assignments - Assignment 2- Implement a repository interface using Spring Data JPA to perform database operations
