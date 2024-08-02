@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.model.Product;
-import com.example.demo.services.ProductService;
+import com.example.demo.service.ProductService;
 
 import lombok.RequiredArgsConstructor;
 
