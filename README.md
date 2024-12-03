@@ -1,1 +1,1 @@
-SPRING Assignments - Assignment 2- Implement a repository interface using Spring Data JPA to perform database operations
+SPRING Assignments - Assignment 3 & 4 - Logging with AOP, different profile config
